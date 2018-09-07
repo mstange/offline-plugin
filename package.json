@@ -1,5 +1,5 @@
 {
-  "name": "offline-plugin",
+  "name": "@mstange/offline-plugin",
   "version": "5.0.5",
   "description": "offline-plugin for webpack",
   "main": "lib/index.js",
